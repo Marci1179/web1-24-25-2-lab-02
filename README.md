@@ -1,8 +1,7 @@
-# web1-24-25-2-lab-02
+# web1-2024-2025-2
+
 A Web1 tantárgy anyagai
 
-## Témák
-- HTML leíró nyelv
-- CSS direktívák
-- JavaScript programozás
-- CSS keretrendszerek
+## Követelmények
+
+- 2 beadandó + gyakorlati ZH
